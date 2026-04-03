@@ -32,9 +32,8 @@ Berdasarkan syarat tugas, setiap topik memiliki 4 jenis fungsi berbeda:
 
 Pastikan Anda memiliki Dart SDK terinstal di lingkungan Anda. Jalankan file menggunakan perintah berikut di terminal:
 
-#```bash
 # Menjalankan Topik Menyapa
-dart run topik_menyapa.dart
+**`dart run topik_menyapa.dar`**
 
 # Menjalankan Topik Kalkulator Luas
 dart run topik_kalkulator_luas.dart
