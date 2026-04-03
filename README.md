@@ -19,7 +19,7 @@ Proyek ini dibagi menjadi tiga file utama sesuai dengan topik instruksi:
 
 ## 🛠️ Detail Teknis
 
-Berdasarkan syarat tugas, setiap topik memiliki 4 jenis fungsi berbeda:
+Setiap topik memiliki 4 jenis fungsi berbeda:
 
 * **Tanpa Parameter & Tanpa Return Value (`void`)**: Fungsi menjalankan aksi statis di dalam blok kode.
 * **Dengan Parameter & Tanpa Return Value (`void`)**: Fungsi menerima input untuk diproses dan ditampilkan langsung.
